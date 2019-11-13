@@ -5,7 +5,7 @@ set nocompatible
 call plug#begin('~/.vim/plugged')
 
 Plug 'scrooloose/nerdtree'
-Plug 'itchyny/lightline.vim'
+Plug 'vim-airline/vim-airline'
 Plug 'joshdick/onedark.vim'
 
 call plug#end()
